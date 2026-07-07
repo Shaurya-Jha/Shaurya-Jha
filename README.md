@@ -7,6 +7,7 @@ I’ve been actively involved in technical hiring by conducting interviews for S
 **My philosophy:** *Build simple, write clean code, stay curious, and continuously optimize.*
 
 **Technical Toolkit**
+
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 
 **Backend:** Node.js, Express, Django (DRF), Ruby on Rails, Next.js API Routes
